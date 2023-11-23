@@ -19,6 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'Wutong030208',
   github: 'RamosShang',
+  wechat: '_1w17Fo5vr',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
